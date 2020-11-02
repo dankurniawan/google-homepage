@@ -1,0 +1,39 @@
+#search_main {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    border: 2px solid black;
+}
+
+#search_logo {
+    border: 2px solid black;
+    padding: 10px;
+}
+
+#search_input {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border: 2px solid black;
+    margin: 10px;
+    padding: 10px;
+}
+
+#search_symbol {
+    background-color: red;
+    width: 50px;
+    height: 50px;
+}
+
+#mic_symbol {
+    background-color: blue;
+    width: 50px;
+    height: 50px;
+}
+
+#search_buttons {
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
